@@ -1,12 +1,26 @@
-## Samantha Kyle
+### About
 
 You can use the [editor on GitHub](https://github.com/SamanthaKyle/SamanthaKyle.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### About
+### What am I working on lately?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is what I'm working on lately.
+
+### Course Work
+Here is where coursework goes
+
+### Resume
+
+Put a pretty master resume here.
+
+### Projects
+Put all the projects here
+.
+### Contact Me
+Link to github.
+Link to LinkedIn.
 
 ```markdown
 Syntax highlighted code block
